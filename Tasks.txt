@@ -1,0 +1,34 @@
+Solidity Tasks:
+
+Completed:
+==============================================
+X Create an ERC-721A Token
+X Create an ERC-20 Token
+X Learn about keccak265 hashing
+X Implement a merkle root
+
+TODO:
+==============================================
+Stake NFT for yield of ERC-20 Token
+Implement Auctions
+	Dutch Auction
+	English Auction
+
+Learn about upgradeability
+Implementing oracles
+	- Pricing data
+
+Create a multi-sig
+
+Learn about ZK Proof implementations (Tornado Cash)
+	- Circom (arithmetic circuits)
+	- snarkjs
+	
+Vulnerabilities
+	- https://www.damnvulnerabledefi.xyz/
+
+Flash Loans
+
+Projects:
+==============================================
+Marketplace
